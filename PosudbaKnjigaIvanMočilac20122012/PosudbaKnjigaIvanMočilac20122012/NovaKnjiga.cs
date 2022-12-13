@@ -16,7 +16,7 @@ namespace PosudbaKnjigaIvanMočilac20122012
     {
         public NovaKnjiga()
         {
-            InitializeComponent()
+            InitializeComponent();
         }
 
         private void btnUnesiKnjigu_Click(object sender, EventArgs e)
